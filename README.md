@@ -1,1 +1,1 @@
-# This project was maden for test react-native-geolocation-service and react-native-maps
+# This project was made for test react-native-geolocation-service and react-native-maps
